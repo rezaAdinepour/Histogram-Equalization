@@ -9,7 +9,7 @@ Essentially, histogram equalization works by:
 
 The result of applying histogram equalization is an image with higher global contrast.
 
-For more detail, Please read [Report](Report/main.pdf).
+For more details, Please read [Report](Report/main.pdf).
 
 ## How work?
 All of data is available in <code>Images</code> folder. After you run the code, all the images in the <code>Images</code> folder will be shown to you and you can select one of
