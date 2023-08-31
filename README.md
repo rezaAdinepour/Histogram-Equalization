@@ -8,3 +8,5 @@ Essentially, histogram equalization works by:
 - Giving a linear trend to the cumulative distribution function (CDF)
 
 The result of applying histogram equalization is an image with higher global contrast.
+
+For more detail, Please read [Report](Report/main.pdf)
