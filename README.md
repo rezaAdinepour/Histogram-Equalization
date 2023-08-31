@@ -19,3 +19,7 @@ them. like below:
 
 ## Result
 For example, I select <code>Image #4: lena.jpg</code> and see the output in below:
+
+![image](Report/images/result.png)
+
+![image](Report/images/fig_lena.jpg)
