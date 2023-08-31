@@ -16,3 +16,6 @@ All of data is available in <code>Images</code> folder. After you run the code, 
 them. like below:
 
 ![image](Report/images/5.png)
+
+## Result
+For example, I select <code>Image #4: lena.jpg</code> and see the output in below:
