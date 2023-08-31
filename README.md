@@ -1,4 +1,4 @@
-# OpenCV Histogram Equalization
+# Histogram Equalization
 
 Histogram equalization is a basic image processing technique that adjusts the global contrast of an image by updating the image histogram’s pixel intensity distribution. Doing so enables areas of low contrast to obtain higher contrast in the output image.
 
