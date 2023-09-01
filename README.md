@@ -23,3 +23,6 @@ For example, I select <code>Image #4: lena.jpg</code> and see the output in belo
 ![image](Report/images/result.png)
 
 ![image](Report/images/fig_lena.jpg)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
